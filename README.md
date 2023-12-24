@@ -1,5 +1,6 @@
 # tagcloudgenerator
-Java-based program to make a tag cloud generator via html/css
+Java-based tag cloud generator 
+words displayed via html/css
 
 Example Below
 
